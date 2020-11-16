@@ -23,36 +23,36 @@
     {%- endcomment -%}
 
     <a
+      href="{{ '/' | relative_url }}"
+      class="nav_link"
+      data-tooltip="Home"
+      data-placement="bottom"
+      data-delay="400"
+      >หน้าหลัก</a
+    >
+    <a
       href="{{ 'resources' | relative_url }}"
       class="nav_link"
-      data-tooltip="Tools, datasets, and more"
+      data-tooltip="Services"
+      data-placement="bottom"
+      data-delay="400"
+      >บริการของเรา</a
+    >
+    <a
+      href="{{ 'team' | relative_url }}"
+      class="nav_link"
+      data-tooltip="Gallery"
       data-placement="bottom"
       data-delay="400"
       >ผลงานของเรา</a
     >
     <a
-      href="{{ 'team' | relative_url }}"
-      class="nav_link"
-      data-tooltip="About our team"
-      data-placement="bottom"
-      data-delay="400"
-      >Team</a
-    >
-    <a
-      href="{{ 'blog' | relative_url }}"
-      class="nav_link"
-      data-tooltip="News, videos, and musings about miscellany"
-      data-placement="bottom"
-      data-delay="400"
-      >Blog</a
-    >
-    <a
       href="{{ 'contact' | relative_url }}"
       class="nav_link"
-      data-tooltip="Email, address, and location"
+      data-tooltip="Contact"
       data-placement="bottom"
       data-delay="400"
-      >Contact</a
+      >ติดต่อเรา</a
     >
   </nav>
 </header>
