@@ -7,7 +7,7 @@ title: Resources
 | **แพ็คเกจ** | **EZ Mini** | **EZ Pro** | **EZ Pro Max** | 
 | ----- | :----: | :----: | :----: |
 | ราคา | 799 บาท/ปี | 999 บาท/ปี | 1499 บาท/ปี | 
-| จำนวนหน้า |  1 หน้า   |  3 หน้า   |  5 หน้า   | 
+| จำนวนหน้า |  1 หน้า   |  4 หน้า   |  5 หน้า   | 
 | เลือกชื่อเว็บไซต์  |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span> |
 | โลโก้เว็บไซต์  |   <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span> |
 | แบนเนอร์เว็บ  |   <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span> |
@@ -16,7 +16,7 @@ title: Resources
 | ภาพผลงาน |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  15 ภาพ   |  25 ภาพ   |
 | บล็อก (Blog) |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  ฟรี 12 ครั้ง/ปี   |
 | รายการงานวิจัย |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  ฟรี 5 ครั้ง/ปี   |
-| ติดตั้ง SSL |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <i class="far fa-check-circle"></i> |
+| ติดตั้ง SSL |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span> |
 | เชื่อมต่อ social media |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>  |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   | 
 
 ราคาแพ็คเกจรวมค่าใช้จ่ายทุกอย่างแล้ว ไม่มีค่าสมัครสมาชิกหรือค่าแรกเข้าเพิ่มเติม <br>
