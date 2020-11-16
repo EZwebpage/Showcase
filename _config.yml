@@ -1,7 +1,7 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: EZwebpage example # title of site, used in tab name and elsewhere
+title: EZwebpage # title of site, used in tab name and elsewhere
 email: ez.webpage.99@gmail.com # default email
 # google: Jane Smith # default name to search on Google Scholar
 # github: fakelab # default GitHub user/org, without the @
