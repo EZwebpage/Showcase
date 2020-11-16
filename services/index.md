@@ -8,7 +8,7 @@ title: Resources
 | ราคา | 799 บาท/ปี | 999 บาท/ปี | 1499 บาท/ปี | 
 | ----- | :----: | :----: | :----: | 
 | จำนวนหน้า |  1 หน้า   |  3 หน้า   |  5 หน้า   | 
-| เลือกชื่อเว็บไซต์  |  <span style="font-size: 48px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
+| เลือกชื่อเว็บไซต์  |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
 | โลโก้เว็บไซต์  |   <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
 | แบนเนอร์เว็บ  |   <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
 | การอัพเดทข้อมูล |  ฟรี 1 ครั้ง/ปี   |  ฟรี 1 ครั้ง/ปี   |  ฟรี 2 ครั้ง/ปี   |
