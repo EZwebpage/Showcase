@@ -20,6 +20,12 @@ Nec sagittis aliquam malesuada bibendum arcu.
   heading="Extra, extra, read all about it!"
   text=text
 %}
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Nec sagittis aliquam malesuada bibendum arcu.
+{% endcapture %}
+
+
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
