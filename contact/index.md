@@ -11,7 +11,7 @@ Website development, Personal Website, Website Design, Afforadble Website etc.  
 
 ## อีเมล์/Email
 
-[ez.webpage.99@gmail.com](mailto:ez.webpage.99@gmail.com)
+[EZ.webpage.99@gmail.com](mailto:ez.webpage.99@gmail.com)
 {:.center}
 
 ## Facebook
