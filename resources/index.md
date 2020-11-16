@@ -13,7 +13,7 @@ title: Resources
 | การอัพเดทข้อมูล |  <i class="far fa-times-circle"></i>   |  ฟรี 1 ครั้ง/ปี   |  ฟรี 2 ครั้ง/ปี   |
 | ภาพผลงาน |  <i class="far fa-times-circle"></i>   |  15 ภาพ   |  25 ภาพ   |
 | ติดตั้ง SSL |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
-| Social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
+| เชื่อมต่อ social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
 
 ราคาแพ็คเกจรวมค่าใช้จ่ายทุกอย่างแล้ว ไม่มีค่าสมัครสมาชิกหรือค่าแรกเข้าเพิ่มเติม
 {:.center}
@@ -34,7 +34,7 @@ title: Resources
 | Website update |  <i class="far fa-times-circle"></i>   |  free 1 update/year   |  free 2 updates/year   |
 | Gallery |  <i class="far fa-times-circle"></i>   |  15 pictures   |  25 pictures   |
 | SSL equipped |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
-| Social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
+| Link to social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
 
 Price shown is total cost/year. There is no registration fee.
 {:.center}
