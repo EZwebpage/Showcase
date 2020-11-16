@@ -11,7 +11,7 @@ youtube: fakeyoutubechannel # default YouTube channel handle
 
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
-baseurl: /lab-website-template
+baseurl: /Showcase
 
 # default front matter parameters for markdown files
 # defaults can be overridden on a particular page, eg:
