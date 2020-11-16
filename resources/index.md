@@ -19,9 +19,6 @@ title: Resources
 {:.center}
 
 
----
-
-
 # <i class="fas fa-tools"></i>Our survices
 
 
