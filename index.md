@@ -15,3 +15,13 @@ title: Home
   text=text
 %}
 
+{% capture text %}
+**EZwebpage** team speciealize in affordable website development. We would be happy to help you creating your organization website, company website, or personal website. Our high quality but affordable website price starts at **799 thai baht/year!!!**
+{% endcapture %}
+{%
+  include feature.html
+  image="images/laboratory.jpg"
+  link="resources"
+  heading="High Quality Website starting @ 799 thai baht/year!!!"
+  text=text
+%}
