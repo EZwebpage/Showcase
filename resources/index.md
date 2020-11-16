@@ -16,7 +16,7 @@ title: Resources
 | Social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
 
 ราคาแพ็คเกจรวมค่าใช้จ่ายทุกอย่างแล้ว ไม่มีค่าสมัครสมาชิกหรือค่าแรกเข้าเพิ่มเติม
-
+{:.center}
 
 
 ---
@@ -37,3 +37,4 @@ title: Resources
 | Social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
 
 Price shown is total cost/year. There is no registration fee.
+{:.center}
