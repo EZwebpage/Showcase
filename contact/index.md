@@ -14,7 +14,7 @@ Website development, Personal Website, Website Design, Afforadble Website etc.  
 [EZ.webpage.99@gmail.com](mailto:ez.webpage.99@gmail.com)
 {:.center}
 
-## Facebook
+## <i class="fab fa-facebook"></i>Facebook
 
 TBD
 {:.center}
