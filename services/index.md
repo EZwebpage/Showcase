@@ -12,8 +12,7 @@ title: Resources
 | โลโก้เว็บไซต์  |   <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span> |
 | แบนเนอร์เว็บ  |   <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span> |
 | การอัพเดทข้อมูล |  ฟรี 1 ครั้ง/ปี   |  ฟรี 1 ครั้ง/ปี   |  ฟรี 2 ครั้ง/ปี   |
-| รูปภาพ/หน้า |  8 ภาพ   |  หน้าละ 6 ภาพ   |  หน้าละ 8 ภาพ   |
-| ภาพผลงาน |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  15 ภาพ   |  25 ภาพ   |
+| รูปภาพบนเว็บไซต์ |  10 ภาพ   |  30 ภาพ   |  50 ภาพ   |
 | บล็อก (Blog) |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  ฟรี 12 ครั้ง/ปี   |
 | รายการงานวิจัย |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  <span style="font-size: 18px; color: Tomato;"><i class="far fa-times-circle"></i></span>   |  ฟรี 5 ครั้ง/ปี   |
 | ติดตั้ง SSL |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span>   |  <span style="font-size: 18px; color: Dodgerblue;"><i class="far fa-check-circle"></i></span> |
