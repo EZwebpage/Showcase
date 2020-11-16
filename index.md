@@ -15,14 +15,3 @@ title: Home
   text=text
 %}
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Nec sagittis aliquam malesuada bibendum arcu.
-{% endcapture %}
-{%
-  include feature.html
-  image="images/laboratory.jpg"
-  link="resources"
-  heading="Extra, extra, read all about it!"
-  text=text
-%}
