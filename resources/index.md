@@ -4,7 +4,6 @@ title: Resources
 
 # <i class="fas fa-tools"></i>บริการของเรา
 
-| EZwebpage website package|
 | แพ็คเกจ | 799 บาท/ปี | 899 บาท/ปี | 999 บาท/ปี | 
 | ----- | :----: | :----: | :----: | 
 | จำนวนหน้า |  1 หน้า   |  3 หน้า   |  5 หน้า   | 
@@ -15,7 +14,8 @@ title: Resources
 | ภาพผลงาน |  <i class="far fa-times-circle"></i>   |  15 ภาพ   |  25 ภาพ   |
 | ติดตั้ง SSL |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
 | Social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
-| ราคาแพ็คเกจรวมค่าใช้จ่ายทุกอย่างแล้ว ไม่มีค่าสมัครสมาชิกหรือค่าแรกเข้าเพิ่มเติม |
+
+ราคาแพ็คเกจรวมค่าใช้จ่ายทุกอย่างแล้ว ไม่มีค่าสมัครสมาชิกหรือค่าแรกเข้าเพิ่มเติม
 
 
 
@@ -25,7 +25,6 @@ title: Resources
 # <i class="fas fa-tools"></i>Our survices
 
 
-| EZwebpage website package|
 | Package | 799 Baht/year | 899 Baht/year | 999 Baht/year | 
 | ----- | :----: | :----: | :----: | 
 | Number of page |  1 page   |  3 pages   |  5 pages   | 
@@ -36,4 +35,5 @@ title: Resources
 | Gallery |  <i class="far fa-times-circle"></i>   |  15 pictures   |  25 pictures   |
 | SSL equipped |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
 | Social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
-| Price shown is total cost/year. There is no registration. |
+
+Price shown is total cost/year. There is no registration.
