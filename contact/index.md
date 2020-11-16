@@ -6,6 +6,7 @@ title: Contact
 
 Website development, Personal Website, Website Design, Afforadble Website etc.  <br>
 ออกแบบเว็บไซต์ สั่งทำเว็บไซต์ เว็บไซต์ส่วนตัว เว็บไซต์ราคากันเอง เว็บไซต์ราคาถูก
+{:.center}
 
 {% include figure.html image="images/volcano.jpg" width="100%" %}
 
