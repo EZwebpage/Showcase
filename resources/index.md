@@ -36,4 +36,4 @@ title: Resources
 | SSL equipped |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i> |
 | Social media |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   |  <i class="far fa-check-circle"></i>   | 
 
-Price shown is total cost/year. There is no registration.
+Price shown is total cost/year. There is no registration fee.
