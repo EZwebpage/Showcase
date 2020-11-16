@@ -2,46 +2,20 @@
 title: Team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>ผลงานของเรา
 
-## Team List
+## Gallery
 
-A _team list_ component, to sort and group all of the members on your team automatically.
-Can be used on any page, but assumes its content from `/_members`.
-Uses the _portrait_ component.
-
-All team members, sorted alphabetically by file name:
-
-{% capture html %}
-{% include team-list.html %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-Team members filtered and sorted by role:
-
-{% capture html %}
-{% include team-list.html role="pi" %}
-{% include team-list.html role="phd" %}
-{% include team-list.html role="programmer" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-Team members filtered and sorted by group:
-
-{% capture html %}
-{% include team-list.html group="current" %}
-{% include team-list.html group="" %}
-{% include team-list.html group="alum" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-Team members in a specific order:
-
-{% capture html %}
-{% include team-list.html order="team-order" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
+{%
+  include gallery.html
+  image1="images/cell.jpg"
+  tooltip1="Cell"
+  link1="https://cell.com/"
+  image2="images/virus.jpg"
+  tooltip2="Virus"
+  image3="images/cell.jpg"
+  tooltip3="Cell"
+  link3="https://cell.com/"
+  image4="images/virus.jpg"
+  image5="images/bacteria.jpg"
+%}
