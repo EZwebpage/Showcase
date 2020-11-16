@@ -2,20 +2,16 @@
 title: Home
 ---
 
-## ยินดีต้อนรับ
-
-A _feature_ component, with an image, a heading, markdown text, and an optional image link.
-Useful for your home page, where you want to highlight key points about your lab.
+## EZwebpage ยินดีต้อนรับ
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Nec sagittis aliquam malesuada bibendum arcu.
+หากคุณต้องการมีเว็บไซต์คุณภาพดี ในราคาไม่แพง ทีมงาน **EZwebpage** พร้อมร่วมงานกับคุณ เพื่อสร้างเว็บไซต์ที่มีความน่าเชื่อถือ ไม่ว่าจะเป็นเว็บไซต์ขององค์กร เว็บไซต์บริษัท เว็บไซต์ธุรกิจ หรือ เว็บไซต์ส่วนตัว เรายินดีที่จะเป็นส่วนหนึ่งในการพัฒนาเว็บไซต์คุณภาพเพื่อคุณ **เริ่มต้นเพียง 799 บาท/ปี เท่านั้น!!!**
 {% endcapture %}
 {%
   include feature.html
   image="images/laboratory.jpg"
   link="resources"
-  heading="Extra, extra, read all about it!"
+  heading="เว็บไซต์คุณภาพดี เริ่มต้นเพียง 799 บาท/ปี เท่านั้น!!!"
   text=text
 %}
 
