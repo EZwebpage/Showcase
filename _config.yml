@@ -1,10 +1,10 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: Lab Website Template # title of site, used in tab name and elsewhere
-email: jane.smith@gmail.com # default email
-google: Jane Smith # default name to search on Google Scholar
-github: fakelab # default GitHub user/org, without the @
+title: EZwebpage example # title of site, used in tab name and elsewhere
+email: ez.webpage.99@gmail.com # default email
+# google: Jane Smith # default name to search on Google Scholar
+# github: fakelab # default GitHub user/org, without the @
 twitter: faketwitterhandle # default Twitter handle, without the @
 instagram: fakeinstagramhandle # default Instagram handle, without the @
 youtube: fakeyoutubechannel # default YouTube channel handle
@@ -24,7 +24,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more. # description that will show under search engine results
+      description: EZwebpage สร้างเว็บไซต์ราคาถูก # description that will show under search engine results
       background: images/test-tube.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
