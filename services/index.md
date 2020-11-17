@@ -7,7 +7,7 @@ title: Resources
 {%
   include figure.html
   image="images/Packages_banner.jpg"
-  height="100px"
+  height="250px"
 %}
 
 | **แพ็คเกจ** | **EZ Mini** | **EZ Pro** | **EZ Pro Max** | 
@@ -35,7 +35,7 @@ title: Resources
 {%
   include figure.html
   image="images/Packages_banner.jpg"
-  height="100px"
+  height="250px"
 %}
 
 | **Package** | **EZ Mini** | **EZ Pro** | **EZ Pro Max** |
