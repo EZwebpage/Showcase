@@ -30,7 +30,7 @@ title: Home
 {% endcapture %}
 {%
   include feature.html
-  image="images/Packages.jpg"
+  image="images/Packages_en.jpg"
   link="services"
   heading="High Quality Website starting @ 799 baht/year!!!"
   text=text
