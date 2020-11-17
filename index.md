@@ -6,7 +6,7 @@ title: Home
 
 {%
   include figure.html
-  image="icons/share-thumbnail.jpg"
+  image="images/EZwebpage_banner.jpg"
   caption="High quality website at your afforable price: เว็บไซต์คุณภาพ ราคาเป็นกันเอง"
   width="100%"
 %}
