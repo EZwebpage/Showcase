@@ -8,7 +8,7 @@ Website development, Personal Website, Website Design, Afforadble Website etc.  
 ออกแบบเว็บไซต์ สั่งทำเว็บไซต์ เว็บไซต์ส่วนตัว เว็บไซต์ราคากันเอง เว็บไซต์ราคาถูก
 {:.center}
 
-{% include figure.html image="images/volcano.jpg" width="100%" %}
+{% include figure.html image="icons/share-thumbnail.jpg" width="100%" %}
 
 ## อีเมล์/Email
 
@@ -17,7 +17,7 @@ Website development, Personal Website, Website Design, Afforadble Website etc.  
 
 ## <i class="fab fa-facebook"></i>Facebook
 
-TBD
+[EZwebpage](https://facebook.com/EZwebpage4U)
 {:.center}
 
 
