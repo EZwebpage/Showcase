@@ -18,4 +18,5 @@ title: Team
   link3="https://cell.com/"
   image4="images/virus.jpg"
   image5="images/bacteria.jpg"
+  image6="images/cell.jpg"
 %}
