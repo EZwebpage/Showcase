@@ -6,7 +6,7 @@ title: Home
 
 {%
   include figure.html
-  image="images/bacteria.jpg"
+  image="icons/share-thumbnail.jpg"
   caption="High quality website at your afforable price: เว็บไซต์คุณภาพ ราคาเป็นกันเอง"
   width="100%"
 %}
