@@ -4,11 +4,13 @@ title: Resources
 
 # <i class="fas fa-tools"></i>บริการของเรา
 
-| **แพ็คเกจ** | {%
+{%
   include figure.html
-  image="images/EZmini.jpg"
-  height="18px"
-%} | **EZ Pro** | **EZ Pro Max** | 
+  image="images/Packages_archive.jpg"
+  width="100%"
+%}
+
+| **แพ็คเกจ** | **EZ Mini** | **EZ Pro** | **EZ Pro Max** | 
 | ----- | :----: | :----: | :----: |
 | ราคา | 799 บาท/ปี | 999 บาท/ปี | 1499 บาท/ปี | 
 | จำนวนหน้า |  1 หน้า   |  4 หน้า   |  5 หน้า   | 
