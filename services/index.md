@@ -7,7 +7,7 @@ title: Resources
 {%
   include figure.html
   image="images/Packages_banner.jpg"
-  height="200px"
+  height="180px"
 %}
 
 | **แพ็คเกจ** | **EZ Mini** | **EZ Pro** | **EZ Pro Max** | 
