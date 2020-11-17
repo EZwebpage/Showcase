@@ -9,6 +9,7 @@ title: Home
   image="images/EZwebpage_banner.jpg"
   caption="High quality website at your afforable price: เว็บไซต์คุณภาพ ราคาเป็นกันเอง"
   width="100%"
+  link="https://www.facebook.com/EZwebpage4U"
 %}
 
 ## EZwebpage Services
