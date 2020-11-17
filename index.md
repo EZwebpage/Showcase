@@ -19,7 +19,7 @@ title: Home
 {%
   include feature.html
   image="images/laboratory.jpg"
-  link="resources"
+  link="services"
   heading="เว็บไซต์คุณภาพดี เริ่มต้นเพียง 799 บาท/ปี เท่านั้น!!!"
   text=text
 %}
@@ -30,7 +30,7 @@ title: Home
 {%
   include feature.html
   image="images/laboratory.jpg"
-  link="resources"
+  link="services"
   heading="High Quality Website starting @ 799 baht/year!!!"
   text=text
 %}
