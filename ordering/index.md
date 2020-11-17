@@ -2,4 +2,8 @@
 title: Ordering
 ---
 
-# <i class="fas fa-tools"></i>Ordering
+# <i class="fas fa-tools"></i>การสั่งทำเว็บไซต์
+
+- โทรถามก่อนจ้า
+- พร้อมแล้วโอนเงินมาเลย
+- รับเงินแล้ว 7 วันได้เว็บ
