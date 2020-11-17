@@ -6,7 +6,7 @@ title: Resources
 
 {%
   include figure.html
-  image="images/Packages_archive.jpg"
+  image="images/Packages_banner.jpg"
   width="100%"
 %}
 
@@ -31,6 +31,12 @@ title: Resources
 
 
 # <i class="fas fa-tools"></i>Our survices
+
+{%
+  include figure.html
+  image="images/Packages_banner.jpg"
+  width="100%"
+%}
 
 | **Package** | **EZ Mini** | **EZ Pro** | **EZ Pro Max** |
 | ----- | :----: | :----: | :----: |
