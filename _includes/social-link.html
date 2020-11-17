@@ -55,6 +55,12 @@
 {%- assign link = "/feed.xml" | absolute_url -%}
 {%- endif -%}
 
+{%- if include.type == "facebook" -%}
+{%- assign icon = "fab fa-facebook-square" -%}
+{%- assign text = "Facebook" -%}
+{%- assign link = include.link | default: site.facebook | default: "" | prepend: "https://facebook.com/" -%}
+{%- endif -%}
+
 {%- comment -%}
 To add more options for icons, see:
 https://fontawesome.com/icons?d=gallery&q=icon&m=free
