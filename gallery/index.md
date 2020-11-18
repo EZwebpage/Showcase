@@ -18,4 +18,7 @@ title: Team
   image7="images/IMG_6944.JPG"
   image8="images/IMG_6975.jpg"
   image9="images/IMG_7105.JPG"
+  image10="images/IMG_7103.JPG"
+  image11="images/IMG_6849.jpg"
+  image12="images/house.JPG"
 %}
