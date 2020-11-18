@@ -12,7 +12,7 @@ title: Team
   size="large"
   link="tef-net.com"
   image="images/BG1.jpg"
-  heading="EZ Mini"
+  heading="www.TEF-Net.com"
   row1="เว็บไซต์โครงการทุนการศึกษาเพื่อน้อง (Thailand Educational Funding Network: TEF-Net) จัดทำโดย EZwebpage"
 %}
 {% endcapture %}
