@@ -11,7 +11,7 @@ title: Team
   include card.html
   size="large"
   link="tef-net.com"
-  image="images/Packages_EZmini.jpg"
+  image="images/BG1.jpg"
   heading="EZ Mini"
   row1="เว็บไซต์โครงการทุนการศึกษาเพื่อน้อง (Thailand Educational Funding Network: TEF-Net) จัดทำโดย EZwebpage"
 %}
