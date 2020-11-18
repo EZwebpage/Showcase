@@ -7,7 +7,7 @@ title: Home
 {%
   include figure.html
   image="images/EZwebpage_banner.jpg"
-  caption="High quality website at your afforable price: เว็บไซต์คุณภาพ ราคาเป็นกันเอง"
+  caption="High quality website at your affordable price: เว็บไซต์คุณภาพ ราคาเป็นกันเอง"
   width="100%"
   link="https://www.facebook.com/EZwebpage4U"
 %}
@@ -38,7 +38,7 @@ title: Home
 {%- include big-link.html text="Please contact us, we can help you" link="/contact" -%}
 
 {% capture text %}
-**EZwebpage** team speciealize in affordable website development. We would be happy to help you creating your organization website, company website, or personal website. Our high quality but affordable website price starts at **_799 thai baht/year!!!_**
+**EZwebpage** team specialize in affordable website development. We would be happy to help you creating your organization website, company website, or personal website. Our high quality but affordable website price starts at **_799 thai baht/year!!!_**
 {% endcapture %}
 {%
   include feature.html
