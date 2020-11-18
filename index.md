@@ -32,7 +32,7 @@ title: Home
 
 
 ## Why do you need a wesbite?
-1. More credibility with business website! [84%](https://blog.verisign.com/getting-online/verisign-2015-online-survey-97-percent-of-smbs-would-recommend-having-a-website-to-other-smbs/)  of consumers stated that they trust a business with a website more than a company which have social media only.
+1. More credibility with business website! [84%](https://blog.verisign.com/getting-online/verisign-2015-online-survey-97-percent-of-smbs-would-recommend-having-a-website-to-other-smbs/)  of consumers stated that they trust a business with a website more than a company which only have social media page.
 2. Show your product, save time, and stay in control! A professional website can help you promote your products and sevices while your website can represent your company and answer your customers FAQs 24/7.
 3. Website is no longer expensive! **EZwebpage** offers a professional website at your affordable price. <br>
 {%- include big-link.html text="Please contact us, we can help you" link="/contact" -%}{:.center}
