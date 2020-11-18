@@ -4,10 +4,11 @@ title: Team
 
 # <i class="fas fa-users"></i>ผลงานของเรา
 
-## Gallery
+## Gallery ตัวอย่าง
 
 {%
   include gallery.html
+  fit="false"
   image1="images/cell.jpg"
   tooltip1="Cell"
   link1="https://cell.com/"
