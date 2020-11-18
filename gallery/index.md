@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Gallery
 ---
 
 # <i class="fas fa-users"></i>ผลงานของเรา
