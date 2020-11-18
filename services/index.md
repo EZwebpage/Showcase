@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Services
 ---
 
 # <i class="fas fa-tools"></i>บริการของเรา
