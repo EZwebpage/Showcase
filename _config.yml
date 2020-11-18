@@ -26,7 +26,7 @@ defaults:
       path: ""
     values:
       description: EZwebpage สร้างเว็บไซต์ราคาถูก # description that will show under search engine results
-      background: images/test-tube.jpg # background image in header and footer
+      background: images/BG.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
   - scope:
