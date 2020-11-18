@@ -10,10 +10,10 @@ title: Team
 {%
   include card.html
   size="large"
-  link=tef-net.com
+  link=https://tef-net.com/
   image="images/BG1.jpg"
-  heading="[www.TEF-Net.com](tef-net.com)"
-  row1="เว็บไซต์โครงการทุนการศึกษาเพื่อน้อง (Thailand Educational Funding Network: TEF-Net) จัดทำโดย EZwebpage"
+  heading="www.TEF-Net.com"
+  row1="เว็บไซต์โครงการทุนการศึกษาเพื่อน้อง TEF-Net (Thailand Educational Funding Network) จัดทำโดย EZwebpage"
 %}
 {% endcapture %}
 
