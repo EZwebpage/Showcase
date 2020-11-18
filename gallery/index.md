@@ -4,6 +4,20 @@ title: Team
 
 # <i class="fas fa-users"></i>ผลงานของเรา
 
+## ผลงานเว็บไซต์ 
+
+{% capture largecards %}
+{%
+  include card.html
+  size="large"
+  image="images/Packages_EZmini.jpg"
+  heading="EZ Mini"
+  row1="เว็บไซต์โครงการทุนการศึกษาเพื่อน้อง (Thailand Educational Funding Network: TEF-Net) จัดทำโดย EZwebpage"
+%}
+{% endcapture %}
+
+{% include centerer.html html=largecards %}
+
 ## ตัวอย่างรูปภาพสินค้าพร้อมคำอธิบาย Product gallery with description
 
 {% capture mediumcards %}
