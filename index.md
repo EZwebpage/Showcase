@@ -35,3 +35,15 @@ title: Home
   heading="High Quality Website starting @ 799 baht/year!!!"
   text=text
 %}
+
+## Why do you need a wesbite? ทำไมคุณควรมีเว็บไซต์?
+
+1. [ลูกค้ากว่า 84% ให้ความเชื่อธุรกิจที่มีเว็บไซต์มากกว่าธุรกิจที่มีเพียงสื่อสังคมออนไลน์](https://blog.verisign.com/getting-online/verisign-2015-online-survey-97-percent-of-smbs-would-recommend-having-a-website-to-other-smbs/) ให้ **EZwebpage** ช่วยเพิ่มความน่าเชื่อถือให้กับธุรกิจของคุณ
+2. เว็บไซต์ช่วยให้คุณประหยัดเวลาไปพร้อมๆกับการดูแลธุรกิจของคุณ ให้เว็บไซต์เป็นตัวแทนของคุณเพื่อแสดงภาพสินค้าหรือบริการ และประหยัดเวลาด้วยการตอบคำถามที่พบบ่อยบนเว็บไซต์ของคุณ
+3. **EZwepage** ทำให้เว็บไซต์ไม่แพงอีกต่อไป คุณสามารถมีเว็บไซต์คุณภาพในราคาที้เป็นกันเอง
+[ติดต่อเรา](/contact)
+
+1. More credibility with business website! [84% of consumers stated that they trust a business with a website more than a company which have social media only.](https://blog.verisign.com/getting-online/verisign-2015-online-survey-97-percent-of-smbs-would-recommend-having-a-website-to-other-smbs/) 
+2. Show your product, save time, and stay in control! A professional website can help you promote your products and sevices while your website can represent your company and answer your customers FAQs 24/7.
+3. Website is no longer expensive! **EZwebpage** offers a professional website at your affordable price. 
+[Please contact us, we can help you](/contact)
