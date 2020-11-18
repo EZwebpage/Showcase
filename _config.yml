@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: EZwebpage สร้างเว็บไซต์ราคาถูก # description that will show under search engine results
+      description: EZwebpage สร้างเว็บไซต์ราคาถูก High quality website at your affordable price: เว็บไซต์คุณภาพ ราคาเป็นกันเอง เว็บไซต์ ราคาถูก ขนาดเล็ก # description that will show under search engine results
       background: images/BG.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
