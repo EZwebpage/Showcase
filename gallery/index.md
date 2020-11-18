@@ -26,7 +26,7 @@ title: Team
   size="medium"
   image="images/Packages_EZpromax.jpg"
   heading="EZ Pro Max"
-  row1="แพ็คเกจ EZ Pro Max เหมาะสำหรับเว็บไซต์ขนาดใหญ่ ความยาวเกิน 4 หน้า หรือมีรูปภาพมากกว่า 50 รูป"
+  row1="แพ็คเกจ EZ Pro Max เหมาะสำหรับเว็บไซต์ขนาดใหญ่ ความยาวเกิน 4 หน้า หรือมีรูปภาพมากกว่า 30 รูป"
 %}
 {% endcapture %}
 
