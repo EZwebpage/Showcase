@@ -17,14 +17,10 @@ Website development, Personal Website, Website Design, Affordable Website etc.  
 
 ## <i class="fab fa-facebook"></i>Facebook
 
-[EZwebpage](https://facebook.com/EZwebpage4U)
-{:.center}
-
-{% include figure.html image="icons/share-thumbnail.jpg" width="100%" %}
-
-
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v9.0" nonce="DjbY9eE7"></script>
 
+{% capture html %}
 <div class="fb-post" data-href="https://www.facebook.com/EZwebpage4U/posts/118036233453704" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/EZwebpage4U/posts/118036233453704" class="fb-xfbml-parse-ignore">โพสต์โดย <a href="https://www.facebook.com/EZwebpage4U/">EZwebpage</a> เมื่อ&nbsp;<a href="https://www.facebook.com/EZwebpage4U/posts/118036233453704">วันจันทร์ที่ 16 พฤศจิกายน  2020</a></blockquote></div>
-{:.center}
+{% endcapture %}
+{% include centerer.html html=html %}
